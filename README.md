@@ -1,6 +1,7 @@
 # Spider-Solitaire-UCB-SWE-HSEP
 
 Date of initial project: Jun 2020 - July 2020
+
 Date of GitHub creation to copy project: Jan 2025
 
 About:
